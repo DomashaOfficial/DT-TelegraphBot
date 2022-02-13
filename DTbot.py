@@ -25,7 +25,7 @@ Hit help button to find out more about how to use me</b>""",
                                         InlineKeyboardButton(
                                             "Help", callback_data="help"),
                                         InlineKeyboardButton(
-                                            "Suppor Group", url="https://t.me/SL_Developers_Support")
+                                            "Support Group", url="https://t.me/SL_Developers_Support")
                                     ],[
                                       InlineKeyboardButton(
                                             "Updates", url="https://t.me/SL_Developers_Official")
