@@ -41,7 +41,7 @@ async def help(client, message):
                chat_id=message.chat.id,
                text="""<b>Telegraph Bot Help!
 Just send a photo or video less than 5mb file size, I'll upload it to telegraph.
-~ @ankivectorUpdates</b>""",
+~ @SL_Developers_Official</b>""",
         reply_markup=InlineKeyboardMarkup(
                                 [[
                                         InlineKeyboardButton(
