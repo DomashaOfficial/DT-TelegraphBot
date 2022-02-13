@@ -63,9 +63,8 @@ async def about(client, message):
                chat_id=message.chat.id,
                text="""<b>About Telegraph Bot!</b>
 <b>♞ Developer:</b> <a href="https://t.me/DomashaRashmindu">Domasha 🇱🇰</a>
-<b>♞ Support:</b> <a href="https://t.me/AnkiSupport_Official">Anki Vector Support</a>
-<b>♞ Library:</b> <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
-<b>~ @ankivectorUpdates</b>""",
+<b>♞ Support:</b> <a href="https://t.me/SL_Developers_Support">SL Developers Support</a>
+<b>~ @SL_Developers_Official</b>""",
      reply_markup=InlineKeyboardMarkup(
                                 [[
                                         InlineKeyboardButton(
@@ -140,7 +139,7 @@ async def button(bot, update):
 print(
     """
 Bot Started!
-Join @ankivectorUpdates 🆗
+Join @SL_Developers_Official 🆗
 """
 )
 
